@@ -1,0 +1,1 @@
+projenin çalıştırılabilmesi için react native sitesinde öncelikle expo-cli kurulmalıdır. Ardından proje klasörü içinde npm install komutu verilerek bağımlılıklar indirildikten sonra expo start komutu ile uygulama ayağa kaldırılabilir
